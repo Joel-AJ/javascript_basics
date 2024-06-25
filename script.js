@@ -1,3 +1,3 @@
-console.log("Hello World");
+config.log("Hello World");
 console.warning("Hello World");
 
